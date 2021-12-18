@@ -1,6 +1,6 @@
 # BANGLADESH DRONES
 
-#Description:
+# Description:
 * This is an Drone Selling WebSite
 * There is Two Types Users --> Admin and Normal Users 
  * Users Can Order a Products
@@ -8,7 +8,7 @@
  * Payment System Comming Sooon
  * Users can buy a Drone click on a Buy Now then submit a from
 
-#Full Summary:
+# Full Summary:
 * Technologies: React, React Bootstrap, Node, MongoDB, Express, Firebase.
 * User Function: Registration/Login with Google and Email-Password, Purchase
 Products, Review with Rating, My Order Section.
