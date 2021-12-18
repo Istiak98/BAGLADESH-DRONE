@@ -1,0 +1,10 @@
+.image-aboutus-banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("http://html.polothemes.com/drocam/images/gallery/work-4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: rgb(247, 231, 231);
+  padding-top: 110px;
+  padding-bottom: 110px;
+}

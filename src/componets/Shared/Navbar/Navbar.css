@@ -1,0 +1,42 @@
+#Nav_menu {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  .Nav_link:link {
+    color: #fb575a;
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    text-decoration: none;
+    margin: 5px;
+  }
+  .Nav_link:visited {
+    color: #fb575a;
+  }
+  .Nav_link:hover {
+    color: #fb575a;
+  }
+  .Nav_link:active {
+    color: #fb575a;
+  }
+  
+  .activeRoute {
+    border-bottom: 0.4rem solid #fb575a;
+    cursor: not-allowed;
+  }
+  .bg {
+    background-color: black;
+  }
+  .nav-text {
+    color: #fb575a;
+  }
+  
+
+
+
+
