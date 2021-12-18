@@ -11,7 +11,7 @@ const ContactUs = () => {
           <div className="row">
             <div className="col-md-12">
               <h1 className="lg-text">Contact US</h1>
-              <p className="image-aboutus-para">AHMED DRONES</p>
+              <p className="image-aboutus-para">BANGLADESH DRONES</p>
             </div>
           </div>
         </div>
@@ -20,7 +20,7 @@ const ContactUs = () => {
         <div className="row gx-2">
           <div className="col">
             <div className="p-3">
-              <h1 className="h2-text">AHMED DRONES</h1>
+              <h1 className="h2-text">BANGLADESH DRONES</h1>
               <p>271,Agrabad,Chittagong,Bangladesh</p>
               <p>E-mail:ahmeddrones@gmail.com</p>
             </div>
